@@ -15,7 +15,7 @@ $ npm i youtube-thumbnail-grabber
 There are two parameters required. The first is the YouTube link, and the second is the quality.
 
 ```js
-const grabLink = require('youtube-thumbnail-grabber')
+import grabLink from 'youtube-thumbnail-grabber'
 
 console.log(grabLink('https://www.youtube.com/watch?v=a3ICNMQW7Ok', 'max'))
 

@@ -1,12 +1,12 @@
 {
-  "name": "youtube-thumbnail-grabber",
-  "version": "1.0.2",
+  "name": "youtube-thumbnail-grabber-ts",
+  "version": "1.0.0",
   "description": "a simple package for grabbing youtube video thumbnails",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "Yash Raut",
+  "author": "Omar Hosam",
   "keywords": [
     "npm",
     "youtube",
@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yashraut362/youtube-thumbnail-grabber.git"
+    "url": "https://github.com/OmarHosamCodes/youtube-thumbnail-grabber"
   },
   "bugs": {
-    "url": "https://github.com/yashraut362/youtube-thumbnail-grabber/issues"
+    "url": "https://github.com/OmarHosamCodes/youtube-thumbnail-grabber/issues"
   },
-  "homepage": "https://github.com/yashraut362/youtube-thumbnail-grabber#readme",
+  "homepage": "https://github.com/OmarHosamCodes/youtube-thumbnail-grabber#readme",
   "dependencies": {
     "chai": "^4.3.6"
   }
